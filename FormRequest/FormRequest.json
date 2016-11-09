@@ -1,0 +1,16 @@
+[
+{
+  "request" :
+    {
+      "method" : "post",
+      "forms" :
+        {
+          "name" : "foo"
+        }
+    },
+  "response" : 
+    {
+      "text" : "bar"
+    }
+}
+]

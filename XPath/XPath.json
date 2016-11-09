@@ -1,0 +1,16 @@
+[
+{
+  "request" :
+    {
+      "method" : "post",
+      "xpaths" : 
+        {
+          "/request/parameters/id/text()" : "1"
+        }
+    },
+  "response" :
+    {
+      "text" : "bar"
+    }
+}
+]

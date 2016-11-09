@@ -1,0 +1,15 @@
+[
+{
+  "request":
+    {
+      "headers": {
+        "foo": {
+          "exist" : "true"
+        }
+    },
+  "response":
+    {
+      "text": "bar"
+    }
+}    
+]

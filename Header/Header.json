@@ -1,0 +1,16 @@
+[
+{
+  "request" :
+    {
+      "method" : "post",
+      "headers" : 
+      {
+        "content-type" : "application/json"
+      }
+    },
+  "response" :
+    {
+      "text" : "bar"
+    }
+}
+]

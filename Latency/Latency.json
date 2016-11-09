@@ -1,0 +1,16 @@
+[
+{
+  "request" :
+    {
+      "text" : "foo"
+    },
+  "response" :
+    {
+      "latency": 
+        {
+          "duration": 1,
+          "unit": "second"
+        }
+    }
+}
+]

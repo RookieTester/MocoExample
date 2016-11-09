@@ -1,0 +1,12 @@
+[
+{
+  "request" :
+    {
+      "text" : "foo"
+    },
+  "response" :
+    {
+      "proxy" : "http://www.github.com"
+    }
+}
+]

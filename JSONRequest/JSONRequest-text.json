@@ -1,0 +1,16 @@
+[
+{
+  "request": 
+    {
+      "uri": "/json",
+      "text": 
+        {
+          "json": "{\"foo\":\"bar\"}"
+        }
+    },
+  "response": 
+    {
+      "text": "foo"
+    }
+}
+]

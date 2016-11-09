@@ -1,0 +1,9 @@
+[
+{
+  "request" :
+    {
+      "uri" : "/redirect"
+    },
+  "redirectTo" : "http://www.github.com"
+}
+]

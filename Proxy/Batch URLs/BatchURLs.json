@@ -1,0 +1,17 @@
+[
+{
+    "request" :
+    {
+        "uri" : {
+            "match" : "/proxy/.*"
+        }
+    },
+    "response" :
+    {
+        "proxy" : {
+            "from" : "/proxy",
+            "to" : "http://localhost:12306/target"
+        }
+    }
+}
+]

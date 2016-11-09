@@ -1,0 +1,13 @@
+[
+{
+  "request": {
+    "uri": "/file_attachment"
+  },
+  "response": {
+    "attachment": {
+        "filename": "foo.txt",
+        "file": "foo.response"
+    }
+  }
+}
+]

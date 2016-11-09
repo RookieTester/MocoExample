@@ -1,0 +1,12 @@
+[
+{
+  "request" :
+    {
+      "file" : "foo.request"
+    },
+  "response" :
+    {
+      "text" : "bar"
+    }
+}
+]

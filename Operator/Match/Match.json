@@ -1,0 +1,15 @@
+[
+{
+  "request": 
+    {
+      "uri": 
+        {
+          "match": "/\\w*/foo"
+        }
+    },
+  "response": 
+    {
+      "text": "bar"
+    }
+}
+]

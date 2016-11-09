@@ -1,0 +1,16 @@
+[
+{
+  "request": 
+    {
+      "uri": "/json",
+      "file": 
+        {
+          "json": "your_file.json"
+        }
+    },
+  "response": 
+    {
+      "text": "foo"
+    }
+}
+]

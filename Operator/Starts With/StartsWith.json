@@ -1,0 +1,15 @@
+[
+{
+  "request":
+    {
+      "uri":
+        {
+          "startsWith": "/foo"
+        }
+    },
+  "response":
+    {
+      "text": "bar"
+    }
+}
+]

@@ -1,0 +1,21 @@
+[
+{
+  "mount" :
+    {
+      "dir" : "dir",
+      "uri" : "/uri",
+      "headers" : {
+        "Content-Type" : "text/plain"
+      },
+      "includes" :
+        [
+          "a.txt",
+          "c.txt"
+        ],
+      "excludes" :
+        [
+          "b.txt"
+        ]
+    }
+}
+]

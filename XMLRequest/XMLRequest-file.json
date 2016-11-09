@@ -1,0 +1,16 @@
+[
+{
+   "request": 
+     {
+        "uri": "/xml",
+        "file": 
+          {
+            "xml": "your_file.xml"
+          }
+    },
+  "response": 
+    {
+      "text": "foo"
+    }
+}
+]

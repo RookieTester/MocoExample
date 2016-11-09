@@ -1,0 +1,19 @@
+[
+{
+    "request": {
+        "uri" : "/event"
+    },
+    "response": {
+        "text": "event"
+    },
+    "on": {
+        "complete": {
+            "async" : "true",
+            "post" : {
+                "url" : "http://another_site",
+                "content": "content"
+            }
+        }
+    }
+}    
+]

@@ -1,0 +1,13 @@
+[
+{
+  "request" :
+    {
+      "method" : "get/post/put/delete",
+      "uri" : "/foo"
+    },
+  "response" :
+    {
+      "text" : "bar"
+    }
+}
+]

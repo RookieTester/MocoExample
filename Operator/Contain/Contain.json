@@ -1,0 +1,15 @@
+[
+{
+  "request":
+    {
+      "uri":
+        {
+          "contain": "foo"
+        }
+    },
+  "response":
+    {
+      "text": "bar"
+    }
+}
+]

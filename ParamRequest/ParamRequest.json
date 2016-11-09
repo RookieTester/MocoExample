@@ -1,0 +1,16 @@
+[
+{
+  "request" :
+    {
+      "uri" : "/foo",
+      "queries" : 
+        {
+          "param" : "test"
+        }
+    },
+  "response" :
+    {
+      "text" : "bar"
+    }
+}
+]
